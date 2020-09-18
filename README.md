@@ -2,6 +2,10 @@
 ### Pacman movement for BFS DFS UCS &amp; A*
 
 
+## Demo
+![Demo](Demp/demo.gif)
+
+
 
 ## 1) Breadth First Search (BFS):
 ```
